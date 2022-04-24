@@ -23,6 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
+/* Header Navigation */
 
 .header nav {
     padding-top: 15px;
@@ -40,6 +41,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+/* End Header Navigation */
 
 a {
     color: #ffffff;
